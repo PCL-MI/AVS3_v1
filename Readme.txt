@@ -1,5 +1,5 @@
 /******************************************************************
-        High-Performance Model(HPM) Software Manual
+        Content Aware Coding(CAC) Model Software Manual
 ******************************************************************/
 
 1. Compilation
@@ -19,7 +19,7 @@
   Makefiles are provided in the directory "build\x86_linux".
   'make' command will create the obj files and generate the executable file in the 'bin' directory.
 
-1.3 CMake for HPM
+1.3 CMake for CAC
   Example for Windows:
     mkdir build_cmake
     cd build_cmake
